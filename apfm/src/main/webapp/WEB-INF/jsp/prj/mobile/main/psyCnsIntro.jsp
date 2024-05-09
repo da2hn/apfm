@@ -27,29 +27,39 @@
 
     <!-- 컨텐츠  ================================================== -->
     <div class="container content-wrapper">
-      <div class="page-header">
-        <h1 class="title"><i class="fa fa-question"></i>이렇게 이용하세요</h1>
+   <div class="page-header">
+        <h2 class="title2" style="margin-bottom: 0px;"><img src="/mgnoincoun/assets/img/logo2.png" style="width: 58px; margin-right: 5px;">경기도노인종합상담센터</h2>
         <ol class="breadcrumb">
           <li><a href="/mgnoincoun/mobileMainList.do">Home</a></li>
-          <!--<li><a href="#">센터소개</a></li>-->
+          <!--<li><a href="#">센터소개</a></li> -->
           <li class="active">이렇게 이용하세요</li>
         </ol>
       </div>
-      <h2 class="title">심리상담 및 종합상담 소개</h2>
-      <h3 class="title">경기도노인종합상담센터란?</h3>
-      <p class="text">경기도 노인문제 해결 및 완화를 위해  노인상담현장을 지원합니다.</p>
-      <h3 class="title">경기도노인종합상담센터 목표는?</h3>
-      <p>경기도노인종합상담센터는 이런 어르신들께 ‘사랑의 빛’을 갚는 마음으로 평온한 노후를 저해하는 심리·사회적 어려움 해소에 도움이 되고자 합니다.</p>
-          
-      <h2 class="title mt30">이용시간</h2>  
-      <h3 class="title">평일 10:00 ~ 17:00<span class="">(주말 및 공휴일 제외)</span></h3>  
-      <h2 class="title mt30">이용방법</h2>  
-      <h3 class="title">온라인상담</h3>
-      <p class="text">홈페이지 상담실 신청 후, 1주일 이내 답변</p>
-      <h3 class="title">내방상담</h3>
-      <p class="text">전화로 사전예약 후, 상담가능</p>
-      <h3 class="title">찾아오시는 길</h3>
-      <p class="text">경기도 수원시 장안구 경수대로 1150, 도서관 3층<br />(자세한 내용은 홈페이지 찾아오시는길 참조)</p>
+      <h2 class="title2">센터 소개</h2>
+      <p class="text2">경기노인종합상담센터는 경기도 노인 및 노인가족의<br/> 삶의 질 향상을 위한 전문심리상담을 지원합니다.</p>
+      <h2 class="title2 mt30">언제 어디서든, 상담이 가능합니다.</h2>  
+      <ol style="padding-left: 20px;">
+	      <li style="list-style-type: disc;">
+		      <p class="text2">경기도 31개 시·군, 62개 노인상담센터</p>
+	      </li>
+	      <li style="list-style-type: disc;">
+		      <p class="text2">365일 24시간 운영하는 24시 노인온 전화상담</p>
+	      </li>
+	      <li style="list-style-type: disc;">
+		      <p class="text2">중장년(1955~1974년) 베이비부터 마음돌봄 전화상담</p>
+	      </li>
+      </ol>
+	  <h2 class="title2 mt30">이용시간·방법</h2>  
+      <ol style="padding-left: 20px;">
+      	<li style="list-style-type: disc;">
+	      <p class="text2">24시 노인온상담 <br/>1833-2255 / 365일 24시간 언제나</p>
+      	</li>
+      	<li style="list-style-type: disc;">
+	      <p class="text2">베이비부머 마음돌봄 전화상담<br/>031-269-5064 / 평일 9:00 ~ 21:00 </p>
+      	</li>
+      </ol>
+      <h2 class="title2 mt30">찾아오시는 길</h2>  
+      <p class="text2">경기도 수원시 장안구 경수대로 110, 건강증진센터 1층</p>
       <a href="#" class="btn btn-sm btn-default"><i class="fa fa-map-marker mr5"></i>약도보기</a>
       <a href="javascript:top_tel()" class="btn btn-lg btn-primary w100p mt30"><span>전화상담은</span> <strong>031-222-1360</strong></a>
     </div><!-- .container /-->
